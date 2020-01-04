@@ -1,11 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="more_coupons_count">
-        <item quantity="other">%d coupons</item>
-        <item quantity="one">1 coupon</item>
+<plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">%d keer overgegaan</item>
+        <item quantity="one">%d keer overgegaan</item>
     </plurals>
-    <plurals name="review_count">
-        <item quantity="other">Bekijk %d reacties</item>
-        <item quantity="one">Bekijk 1 reacties</item>
+<plurals name="more_coupons_count">
+        <item quantity="other">%d coupons</item>
+        <item quantity="one">%d coupon</item>
+    </plurals>
+<plurals name="review_count">
+        <item quantity="other">%d reacties bekijken</item>
+        <item quantity="one">%d reactie bekijken</item>
     </plurals>
 </resources>
